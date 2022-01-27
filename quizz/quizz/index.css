@@ -1,0 +1,21 @@
+body{
+    background: url(https://wallpapers.justgeek.fr/web/wallpapers/terre-nature-wallpaper-fond-ecran-34/1920x1080.jpg); 
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.text, .header{
+    width: 45%;
+    text-align: center;
+    color: rgb(255, 255, 255);
+    font-family: fantasy;   
+    margin: 40px;
+    font-size: 30px;
+    border-radius: 20px;
+}
+h4{
+    text-align: end;
+}
